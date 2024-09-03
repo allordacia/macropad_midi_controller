@@ -1,2 +1,2 @@
-# macropad_midi_controller
+# Macropad Midi Controller
 Midi controller using the adafruit macropad
